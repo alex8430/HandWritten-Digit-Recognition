@@ -22,7 +22,7 @@ This project focuses on building and training a machine learning model to predic
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/HandWritten-Digit-Recognition
+1. Clone this repository: `git clone https://github.com/alex8430/HandWritten-Digit-Recognition
 .git`
 2. Navigate to the project directory: `cd HandWritten-Digit-Recognition
 `
