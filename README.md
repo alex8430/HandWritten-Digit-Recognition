@@ -1,10 +1,10 @@
-# Handwritten Digit Recognition with Machine Learning
+# Neural-Network-From-Scratch
 
-A machine learning project that predicts handwritten digits using the MNIST dataset. The project involves data preprocessing, model development, and evaluation using Python and Jupyter Notebook.
+A Neural Network that predicts handwritten digits using the MNIST dataset. The project involves data preprocessing, model development, and evaluation using Python and Jupyter Notebook.
 
 ## Overview
 
-This project focuses on building and training a machine learning model to predict handwritten digits. By utilizing the popular MNIST dataset and implementing advanced techniques like Mini-batch gradient descent, the project demonstrates a high level of accuracy in digit recognition.
+This project focuses on building and training a Neural Network to predict handwritten digits. By utilizing the popular MNIST dataset and implementing advanced techniques like Mini-batch gradient descent, the project demonstrates a high level of accuracy in digit recognition.
 
 ## Features
 
@@ -22,9 +22,8 @@ This project focuses on building and training a machine learning model to predic
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/alex8430/HandWritten-Digit-Recognition
-.git`
-2. Navigate to the project directory: `cd HandWritten-Digit-Recognition
+1. Clone this repository: `git clone https://github.com/alex8430/Neural-Network-From-Scratch.git`
+2. Navigate to the project directory: `cd Neural-Network-From-Scratch
 `
 3. Install required packages: `pip install -r requirements.txt`
 
